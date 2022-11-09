@@ -14,7 +14,7 @@ Runs the outline server with https if required
 # How to use 
 
 ```
-git clone
+git clone https://github.com/ajchouhan/outline.git
 cd outline
 make install
 ```
