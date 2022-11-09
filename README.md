@@ -1,6 +1,5 @@
 # Docker compose for outline wiki
 
-http://chsasank.github.io/outline-self-hosted-wiki.html
 
 Features:
 
@@ -15,11 +14,7 @@ Runs the outline server with https if required
 # How to use 
 
 ```
-git clone https://github.com/chsasank/outline-wiki-docker-compose.git
-cd outline-wiki-docker-compose
+git clone
+cd outline
 make install
 ```
-
-And follow the instructions.
-
-![make_install](http://chsasank.github.io/assets/images/outline/make_install.png)
